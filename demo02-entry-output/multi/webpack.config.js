@@ -16,6 +16,7 @@ module.exports = {
 		indexTwo: './indexTwo.js'
 	},
 	output: {
-		filename: '[name].bundle.js'
+		filename: '[hash].bundle.js',
+		path: __dirname + '/'
 	}
 };

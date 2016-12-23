@@ -3,4 +3,5 @@ npm-debug.log
 dist
 node_modules
 bundle.js
+bundle.js.map
 *.bundle.js
